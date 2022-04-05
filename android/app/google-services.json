@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "663585592057",
+    "project_id": "botschaft-d6d9c",
+    "storage_bucket": "botschaft-d6d9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663585592057:android:ff4a542e4b7c155da74828",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663585592057-3trkjo3mqibji7603h279165lgs38g73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_app",
+            "certificate_hash": "2ac6d604988fd211ba8ed0d4b11f788b664bc116"
+          }
+        },
+        {
+          "client_id": "663585592057-4mtvcj5kg7v60as3s1bmh3av6r4h6j99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB05yACFP0l5waZhBfXX8xY2nm3-1_SvUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663585592057-4mtvcj5kg7v60as3s1bmh3av6r4h6j99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
